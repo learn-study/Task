@@ -2,6 +2,8 @@
 
 ## FillterEncoding
 
+write `public void doFilter` following
+
 `EncodingFilter.java`
 
 ```
