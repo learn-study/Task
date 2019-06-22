@@ -11,6 +11,12 @@ request.setCharacterEncoding("UTF-8");
 response.setCharacterEncoding("UTF-8");
 ```
 
+global path for @WebFilter annotation
+
+``` 
+@WebFilter("/*")
+``` 
+
 *** 
 
 
