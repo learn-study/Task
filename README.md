@@ -21,16 +21,30 @@ global path for @WebFilter annotation
 
 ## routing
 
-get + index.html
+* get + index.html
 
-get + NewTask
+Task indexes
 
-post + NewTask
+* get + NewTask
 
-get + taskedit
+form for new Task
 
-post + taskedit
+* post + NewTask
 
-get + taskshow 
+create new Task
 
-get + taskdelete
+* get + taskedit
+
+form for edit Task
+
+* post + taskedit
+
+update Task
+
+* get + taskshow 
+
+TaskPage
+
+* get + taskdelete
+
+delete Task
