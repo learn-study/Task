@@ -1,9 +1,11 @@
 # TaskManager
 
-## TopPage(Task index)
 
-get + index.html+ 
+get + index.html
 
-## Task NewPage
-
-get + 
+get + NewTask
+post + NewTask
+get + taskedit
+post + taskedit
+get + taskshow 
+get + taskdelete
